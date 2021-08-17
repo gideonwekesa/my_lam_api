@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mylamapi-dev-221300-authRole",
+      "UnauthRoleArn": "arn:aws:iam::112687019864:role/amplify-mylamapi-dev-221300-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::112687019864:role/amplify-mylamapi-dev-221300-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-mylamapi-dev-221300-deployment",
+      "UnauthRoleName": "amplify-mylamapi-dev-221300-unauthRole",
+      "StackName": "amplify-mylamapi-dev-221300",
+      "StackId": "arn:aws:cloudformation:eu-west-2:112687019864:stack/amplify-mylamapi-dev-221300/fc7e9a60-fec5-11eb-bac6-0a3daf25db3e",
+      "AmplifyAppId": "d1xv10xjsitptw"
+    },
+    "categories": {
+      "function": {
+        "myLamAPIFunc": {
+          "deploymentBucketName": "amplify-mylamapi-dev-221300-deployment",
+          "s3Key": "amplify-builds/myLamAPIFunc-364a6f77747a37787063-build.zip"
+        }
+      }
+    }
+  }
+}
